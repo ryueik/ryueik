@@ -60,7 +60,7 @@
 
 ## 🇧🇷 Português
 
-```ts
+ts
 const matheus = {
   formação: "Tecnólogo em Gestão de TI",
   cargo: "Estagiário de TI — GAB-AI-ESA",
@@ -179,4 +179,4 @@ https://img.shields.io/badge/Gmail-matheusmgmgdossantos-1a1b27?style=for-the-bad
 <a href="https://dev-matheus-macario.vercel.app/"> <img src="https://img.shields.io/badge/⭐_Veja_meu_portfólio_completo-7aa2f7?style=for-the-badge&labelColor=1a1b27" /> </a></div>
 <!-- ═══════════════════════════════════════════════════════════ --><!-- FOOTER --><!-- ═══════════════════════════════════════════════════════════ --><div align="center">
 💡 "Automatize o repetitivo, foque no que importa."
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer" width="100%"/></div> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer" width="100%"/></div> 
