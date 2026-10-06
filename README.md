@@ -1,12 +1,16 @@
+<!-- ═══════ HEADER ═══════ -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=Matheus%20Mac%C3%A1rio&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Web%20Developer%20%7C%20RPA%20%26%20Automation%20Specialist&descAlignY=56&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=230&section=header&text=Matheus%20Mac%C3%A1rio&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Web%20Developer%20%7C%20RPA%20%26%20Automation%20Specialist&descAlignY=55&descSize=19&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Web+Developer;RPA+%26+Automation+Specialist;Python+%7C+PHP+%7C+JavaScript;Power+Platform+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Web+Developer+%F0%9F%92%BB;RPA+%26+Automation+Specialist+%F0%9F%A4%96;Python+%7C+PHP+%7C+JavaScript;Power+Platform+Enthusiast+%E2%9A%A1;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
+
+<!-- ═══════ BADGES SOCIAIS ═══════ -->
 
 <div align="center">
 
@@ -19,10 +23,23 @@
 
 ![Visitas](https://komarev.com/ghpvc/?username=ryueik&label=Visitas&color=7aa2f7&style=for-the-badge)
 ![Seguidores](https://img.shields.io/github/followers/ryueik?label=Seguidores&style=for-the-badge&color=7aa2f7&labelColor=1a1b27)
+![Status](https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-7aa2f7?style=for-the-badge&labelColor=1a1b27)
 
 </div>
 
----
+<br/>
+
+<!-- ═══════ NAV ═══════ -->
+
+<div align="center">
+
+[🇧🇷 Português](#-português) &nbsp;•&nbsp; [🇺🇸 English](#-english) &nbsp;•&nbsp; [🛠 Stack](#-tech-stack) &nbsp;•&nbsp; [📊 Stats](#-github-analytics) &nbsp;•&nbsp; [💼 Experiência](#-experiência--experience) &nbsp;•&nbsp; [📬 Contato](#-contato--contact)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- ═══════ PORTUGUÊS ═══════ -->
 
 ## 🇧🇷 Português
 
@@ -34,9 +51,12 @@
 - 🧩 Desenvolvendo scripts em **Python, PHP e JS** para consumo de APIs REST e manipulação de payloads JSON
 - 🌱 Estudando **integração de sistemas, automação com IA (N8N) e desenvolvimento full stack**
 - 🎯 Foco em soluções que **reduzem trabalho manual e geram impacto real**
-- 📫 Portfólio: **[dev-matheus-macario.vercel.app](https://dev-matheus-macario.vercel.app/)**
+- 💬 Pergunte-me sobre **automação, Power Platform ou integração de APIs**
+- ⚡ Curiosidade: **se dá pra automatizar, eu vou automatizar** 🤖
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- ═══════ ENGLISH ═══════ -->
 
 ## 🇺🇸 English
 
@@ -48,9 +68,26 @@
 - 🧩 Writing **Python, PHP and JS** scripts for REST API consumption and JSON payload handling
 - 🌱 Learning **system integration, AI-driven automation (N8N) and full-stack development**
 - 🎯 Focused on solutions that **cut manual work and drive real impact**
-- 📫 Portfolio: **[dev-matheus-macario.vercel.app](https://dev-matheus-macario.vercel.app/)**
+- 💬 Ask me about **automation, Power Platform or API integration**
+- ⚡ Fun fact: **if it can be automated, I will automate it** 🤖
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- ═══════ AGORA / NOW ═══════ -->
+
+## 🎯 Agora | Now
+
+<div align="center">
+
+| 🎧 Ouvindo | 📖 Estudando | 🛠 Construindo | 🎯 Meta 2026 |
+|:---:|:---:|:---:|:---:|
+| Lo-fi & Synthwave | N8N + IA aplicada | Fluxos RPA na PGE-RS | Me tornar referência em automação |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- ═══════ TECH STACK ═══════ -->
 
 ## 🛠 Tech Stack
 
@@ -72,7 +109,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=7aa2f7)
 ![SQL](https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=7aa2f7)
 
-**🧰 Ferramentas**
+**🧰 Ferramentas & Plataformas**
 
 ![Git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=7aa2f7)
 ![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7)
@@ -85,12 +122,14 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- ═══════ STATS ═══════ -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryueik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryueik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&ring_color=7aa2f7"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryueik&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&langs_count=8"/>
 </div>
 
@@ -106,7 +145,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryueik&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7aa2f7&area=true&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Atividade"/>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- ═══════ SNAKE ═══════ -->
 
 ## 🐍 Contribuições em Ação
 
@@ -118,9 +159,11 @@
   </picture>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 📌 Projetos em Destaque
+<!-- ═══════ PROJETOS ═══════ -->
+
+## 📌 Projetos em Destaque | Featured Projects
 
 > 🔄 Substitua `repo-1`, `repo-2`, `repo-3`, `repo-4` pelos seus repositórios reais.
 
@@ -144,7 +187,9 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- ═══════ EXPERIÊNCIA ═══════ -->
 
 ## 💼 Experiência | Experience
 
@@ -166,13 +211,33 @@
 - 🐍 Writing **Python, PHP and JavaScript** scripts for **REST API** consumption and **JSON** payload handling
 - 🔧 Code governance with **Git/GitHub** and **Level 2** technical support
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- ═══════ CERTIFICAÇÕES ═══════ -->
 
 ## 🎓 Formação & Certificações | Education & Certifications
 
+<div align="center">
+
+**🎓 Formação Acadêmica**
+
+![Tecnólogo](https://img.shields.io/badge/Tecn%C3%B3logo%20em%20Gest%C3%A3o%20de%20TI-1a1b27?style=for-the-badge&logo=googlescholar&logoColor=7aa2f7)
+
+**📜 Certificações**
+
+![Excel](https://img.shields.io/badge/Excel%20Completo-1a1b27?style=for-the-badge&logo=microsoftexcel&logoColor=7aa2f7)
+![Python](https://img.shields.io/badge/Jornada%20Python%20Automa%C3%A7%C3%A3o-1a1b27?style=for-the-badge&logo=python&logoColor=7aa2f7)
+![SQL](https://img.shields.io/badge/SQL%20%26%20Full--Stack-1a1b27?style=for-the-badge&logo=mysql&logoColor=7aa2f7)
+![N8N](https://img.shields.io/badge/Automa%C3%A7%C3%A3o%20N8N%20%26%20IA-1a1b27?style=for-the-badge&logo=n8n&logoColor=7aa2f7)
+![IA](https://img.shields.io/badge/IA%20para%20Todos-1a1b27?style=for-the-badge&logo=openai&logoColor=7aa2f7)
+![LGPD](https://img.shields.io/badge/LGPD-1a1b27?style=for-the-badge&logo=shield&logoColor=7aa2f7)
+
+</div>
+
+<br/>
+
 | 🏅 Certificação | 🏢 Emissor |
 |:---|:---|
-| **Tecnólogo em Gestão de TI** | Grau Tecnológico |
 | **Excel Completo do Básico ao Avançado** | ENAP / EV.G |
 | **Jornada Python Automação** | Hashtag Treinamentos |
 | **SQL & Full-Stack** | Mimo |
@@ -180,7 +245,34 @@
 | **IA para Todos** | StartSe |
 | **LGPD (Lei Geral de Proteção de Dados)** | LÚMINA / UFRGS |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- ═══════ METAS ═══════ -->
+
+## 🎯 Metas 2026 | Goals 2026
+
+- [ ] 🚀 Publicar 10 projetos open source
+- [x] 🤖 Dominar Power Automate (Cloud + Desktop)
+- [ ] 🧠 Certificação Microsoft Power Platform
+- [ ] 🌐 Contribuir para projetos open source relevantes
+- [ ] 📚 Aprofundar em arquitetura de sistemas e integrações
+- [ ] ✍️ Escrever artigos técnicos sobre automação
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- ═══════ QUOTE ═══════ -->
+
+## 💭 Quote do Dia | Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- ═══════ CONTATO ═══════ -->
 
 ## 📬 Contato | Contact
 
@@ -191,17 +283,26 @@
 
 <br/>
 
-[![Portfólio](https://img.shields.io/badge/dev--matheus--macario.vercel.app-1a1b27?style=for-the-badge&logo=vercel&logoColor=7aa2f7)](https://dev-matheus-macario.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/🌐%20dev--matheus--macario.vercel.app-1a1b27?style=for-the-badge&logoColor=7aa2f7)](https://dev-matheus-macario.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--matheus--macario-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/dev-matheus-macario/)
 [![Gmail](https://img.shields.io/badge/Gmail-matheusmgmgdossantos-1a1b27?style=for-the-badge&logo=gmail&logoColor=7aa2f7)](mailto:matheusmgmgdossantos@gmail.com)
 
+<br/>
+
+<a href="https://dev-matheus-macario.vercel.app/">
+  <img src="https://img.shields.io/badge/⭐%20Veja%20meu%20portf%C3%B3lio%20completo-7aa2f7?style=for-the-badge&labelColor=1a1b27" />
+</a>
+
 </div>
 
----
+<br/>
+
+<!-- ═══════ FOOTER ═══════ -->
 
 <div align="center">
 
 ### 💡 _"Automatize o repetitivo, foque no que importa."_
+### 💡 _"Automate the repetitive, focus on what matters."_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer" width="100%"/>
 
