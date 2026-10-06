@@ -33,7 +33,7 @@
 
 <div align="center">
 
-[🇧🇷 Português](#-português) &nbsp;•&nbsp; [🇺🇸 English](#-english) &nbsp;•&nbsp; [🛠 Stack](#-tech-stack) &nbsp;•&nbsp; [📊 Stats](#-github-analytics) &nbsp;•&nbsp; [💼 Experiência](#-experiência--experience) &nbsp;•&nbsp; [📬 Contato](#-contato--contact)
+[🇧🇷 Português](#-português) &nbsp;•&nbsp; [🇺🇸 English](#-english) &nbsp;•&nbsp; [🎯 Now](#-agora--now) &nbsp;•&nbsp; [🛠 Stack](#-tech-stack) &nbsp;•&nbsp; [📊 Stats](#-github-analytics) &nbsp;•&nbsp; [📌 Projetos](#-projetos-em-destaque) &nbsp;•&nbsp; [💼 Experiência](#-experiência--experience) &nbsp;•&nbsp; [📬 Contato](#-contato--contact)
 
 </div>
 
@@ -161,30 +161,56 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<!-- ═══════ PROJETOS ═══════ -->
+<!-- ═══════ PROJETOS EM DESTAQUE ═══════ -->
 
-## 📌 Projetos em Destaque | Featured Projects
+## 📌 Projetos em Destaque
 
-> 🔄 Substitua `repo-1`, `repo-2`, `repo-3`, `repo-4` pelos seus repositórios reais.
+> Uma seleção dos meus melhores trabalhos. Todos reunidos no repositório [**ryueik/Projetos**](https://github.com/ryueik/Projetos).
 
 <div align="center">
 
-<a href="https://github.com/ryueik/repo-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryueik&repo=repo-1&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" />
-</a>
-<a href="https://github.com/ryueik/repo-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryueik&repo=repo-2&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" />
-</a>
+### 🎮 [CodeQuest](https://github.com/ryueik/Projetos/tree/main/CodeQuest)
+
+<img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/Jogo_de_Lógica-1a1b27?style=flat-square&logo=gamepad&logoColor=7aa2f7" />
+
+Jogo interativo de lógica e programação desenvolvido em Python.
+
+---
+
+### 🚀 [PYTHON POWERUP](https://github.com/ryueik/Projetos/tree/main/PYTHON%20POWERUP)
+
+<img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-1a1b27?style=flat-square&logo=gear&logoColor=7aa2f7" />
+
+Coleção de scripts de automação e produtividade em Python.
+
+---
+
+### 🌤️ [Weather App](https://github.com/ryueik/Projetos/tree/main/Weather%20App)
+
+<img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/API_REST-1a1b27?style=flat-square&logo=cloud&logoColor=7aa2f7" />
+
+Aplicação de previsão do tempo consumindo APIs externas.
+
+---
+
+### 📄 [PDF Splitter Utility](https://github.com/ryueik/Projetos/tree/main/PDF-Splitter-Utility)
+
+<img src="https://img.shields.io/badge/PowerShell-1a1b27?style=flat-square&logo=powershell&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/Utilit%C3%A1rio-1a1b27?style=flat-square&logo=adobeacrobatreader&logoColor=7aa2f7" />
+
+Ferramenta para dividir arquivos PDF grandes em partes menores.
+
+</div>
 
 <br/>
 
-<a href="https://github.com/ryueik/repo-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryueik&repo=repo-3&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" />
-</a>
-<a href="https://github.com/ryueik/repo-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryueik&repo=repo-4&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" />
-</a>
-
+<div align="center">
+  <a href="https://github.com/ryueik/Projetos">
+    <img src="https://img.shields.io/badge/🔍%20Ver%20todos%20os%20projetos-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Ver todos os projetos" />
+  </a>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
